@@ -1,5 +1,5 @@
-'''
-This is a new file which is to be distrubuted on github
-'''
-
-userinput = input("skjdhf: ")
+userinput = input("Hi! what is your name: ")
+if userinput == "Tim Reed":
+    print("hi",userinput,"Would you like a drink")
+else:
+    print("hi",userinput)
